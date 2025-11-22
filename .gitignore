@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+.venv/
+__pycache__/
+*.pyc
+
+# Ignorar datos pesados
+analytics.duckdb
+data/raw/*.parquet
+
+# Ignorar variables privadas
+.env

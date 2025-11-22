@@ -1,0 +1,7 @@
+pandas
+pyarrow
+duckdb
+pymongo[srv]
+python-dotenv
+scikit-learn
+jupyter
