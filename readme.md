@@ -144,6 +144,7 @@ pipeline_movilidad/
 ├─ .env                                      # Variables de entorno (URI de Mongo, etc.)
 ├─ requirements.txt                          # Dependencias de Python
 └─ README.md                                 # Este documento
+└─ run_all.bat                               # script automáticos que ejecuta todo el pipeline
 
 ## 5. Configuración y ejecución
 
